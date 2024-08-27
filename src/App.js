@@ -4,6 +4,7 @@ import Input from './components/Input/input.jsx'
 
 
 function App() {
+  
   const info={
     name:"Miri",
     age:25,

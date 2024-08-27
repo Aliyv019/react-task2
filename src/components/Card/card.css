@@ -3,28 +3,3 @@
     padding: 0;
     box-sizing: border-box;
 }
-.container{
-    border: 1px solid black;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 25%;
-    margin: 20px;
-    padding: 25px;
-    border-radius: 7px;
-}
-.container h2{
-    margin-bottom: 10px;
-}
-.container p{
-    margin-bottom: 25px;
-}
-.card_btns button{
-    background: #0D6EFD;
-    padding: 8px;
-    font-family: sans-serif;
-    color: white;
-    font-weight: 600;
-    border: none;
-    border-radius: 7px;
-}
